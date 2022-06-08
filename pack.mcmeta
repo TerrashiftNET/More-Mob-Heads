@@ -1,6 +1,9 @@
 {
-	"pack": {
-		"pack_format": 8,
-		"description": [{"text":"More Mob Heads","color":"gold"},{"text":"\nvanillatweaks.net","color":"yellow"}]
-	}
+  "pack": {
+    "pack_format": 10,
+    "description": [
+      { "text": "More Mob Heads - Terrashift Fork", "color": "gold" },
+      { "text": "\nvanillatweaks.net + terrashift.net", "color": "yellow" }
+    ]
+  }
 }
